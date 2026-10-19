@@ -54,7 +54,7 @@ h1 {
 
 .menu {
     position: absolute;
-    bottom: 40px;
+    bottom: 0px;
 
     display: flex;
     justify-content: center;
